@@ -1,0 +1,9 @@
+Shahzaib                               	shah123 	110000.00	shahzaibhussain819@gamil.com           	03196336397        
+Dayyan                                 	dani12  	14700.00	dani@gmail.com                         	03123456789        
+Atiq                                   	atiq12  	100000.00	atiq@gmail.com                         	03099777371        
+Usman                                  	usman12 	100100.00	usman@gmail.com                        	0312345678         
+Ramaz                                  	ramaz12 	100000.00	ramaz@gmail.com                        	03144948490        
+Ahmad                                  	ahmad12 	10000.00	ahmad@gmail.com                        	02938230           
+Zain                                   	zain12  	100000.00	zain@gmail.com                         	02903993938        
+Adeel                                  	adeel12 	1000000.00	adeel@gmail.com                        	028347340          
+sample                                 	sample12	100000.00	sample@gmail.com                       	N/A                
