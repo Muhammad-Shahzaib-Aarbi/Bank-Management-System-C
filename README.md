@@ -36,3 +36,9 @@ A robust, terminal-based Bank Management System developed entirely in C. This pr
 
 ## 📄 Documentation
 For a complete breakdown of the system architecture, logic flow, and edge-case handling, please refer to the included `Project Report.pdf`.
+
+## Author
+- Muhammad Shahzaib Aarbi (2024-MC-15)
+
+---
+*Project developed for Computer Programming-I (MCT-142L), UET Lahore.*
